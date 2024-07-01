@@ -21,4 +21,22 @@ This Flutter app displays current weather based on device location or by searchi
 <img src="screenshots/home_screen.jpg" alt="Screenshot 4" height="250"/>  
 
 5. Search Screen
-<img src="screenshots/search_dialog.jpg" alt="Screenshot 5" height="250"/>  
+<img src="screenshots/search_dialog.jpg" alt="Screenshot 5" height="250"/>
+
+## Prerequisites 🛠
+
+Before running the app, make sure you have the following:
+
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Firebase Project: [Create a Firebase project](https://console.firebase.google.com/) and set up Firestore database.
+
+## Getting Started 🚀
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yashCodesDev/weather.git
+
+
+## Contributing 🤝
+We welcome contributions to improve the Weather Flutter App! 🙌 Feel free to submit issues, pull requests, or suggest new features.
